@@ -1,0 +1,11 @@
+name: NoCraft
+main: me.br_.minecraft.bukkit.nocraft.NCMain
+version: 0.1
+author: BR_
+description: >
+             Prevent people from crafting certain items.
+commands:
+    nocraft:
+        usage: >
+                     /nocraft add <id>
+                     /nocraft remove <id>
